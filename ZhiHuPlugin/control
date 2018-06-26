@@ -1,0 +1,9 @@
+Package: net.codetips.zhihuplugin
+Name: ZhiHuPlugin
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove ADs!
+Maintainer: Loveletter
+Author: Loveletter
+Section: Tweaks
